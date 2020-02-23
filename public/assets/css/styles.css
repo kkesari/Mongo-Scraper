@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: cadetblue;
+  color: rgb(65, 63, 2);
+}
+
+.footer {
+  height: 10%;
+  width: 100%;
+  position: absolute;
+  background-color: rgb(184, 204, 184);
+}
